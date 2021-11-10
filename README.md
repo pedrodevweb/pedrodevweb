@@ -1,7 +1,7 @@
 ### Olá!!! Eu sou o Pedro Henrique!!!
 
 - 🔭 Atualmente eu trabalho com Front-End
-- 🌱 Estou estudando sobre Front-End
+- 🌱 Estou estudando sobre Front-End / Data Science
 - 😄 Pronomes: ele/dele
 
 
